@@ -1,4 +1,4 @@
-#team {
+.team {
   background-color: #f4f4fd;
 }
 
@@ -23,10 +23,12 @@
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
+  text-align: center;
 }
 
 .resume-profession {
   color: #434455;
+  text-align: center;
 }
 
 .team-img {

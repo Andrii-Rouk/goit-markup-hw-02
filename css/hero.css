@@ -17,3 +17,8 @@
   letter-spacing: 0.64px;
   background-color: #4d5ae5;
 }
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}

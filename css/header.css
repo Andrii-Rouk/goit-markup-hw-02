@@ -14,7 +14,7 @@
 }
 
 .header-logo {
-  color: initial;
+color: #2e2f42;
 }
 
 .header-nav {
@@ -28,11 +28,12 @@
 
 .header-nav-link {
   font-weight: 500;
+  color: #2e2f42;
 }
 
 .header-nav-link:hover,
 .header-nav-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .contacts {
@@ -46,6 +47,7 @@
 
 .contact-link-mail {
   color: #434455;
+  font-style: normal;
 }
 
 .contact-list-phone {
@@ -53,4 +55,10 @@
 
 .contact-link-phone {
   color: #434455;
+    font-style: normal;
+
+}
+
+.contact-link-mail:hover, .contact-link-phone:hover, .contact-link-mail:focus, .contact-link-phone:focus {
+color: #404bbf;
 }
